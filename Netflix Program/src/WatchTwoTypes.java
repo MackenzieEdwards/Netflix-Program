@@ -1,6 +1,4 @@
-public interface WatchTwoTypes
-	{
-	public void example();
 
+public interface WatchTwoTypes {
 	void sentenceType();
-	}
+}
